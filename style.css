@@ -16,16 +16,16 @@
 .about-text p{
     font-size:20px;
     line-height:1.8;
-    color:#d1d5db;
     margin-bottom:30px;
+    color:#d1d5db;
 }
 .about-text{
     max-width:800px;
     margin:auto;
     text-align:center;
-    font-size:20px;
-    line-height:1.8;
-    color:#d1d5db;
+    
+    
+    
 }
 .skill-box{
     max-width:700px;
@@ -57,6 +57,4 @@
 .html{width:95%;}
 .css{width:90%;}
 .javascript{width:85%;}
-.react{width:80%;}
-.bootstrap{width:85%;}
-.tailwind{width:80%;}
+
